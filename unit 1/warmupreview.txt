@@ -1,0 +1,5 @@
+the 4 data types we've learned in class is a boolean,integers,floats,variables,and a string.
+A code repository is where coding informatrion is stored.
+A computer keyboard is an input because  it is whats used to type information into the computer and to actually use it.
+A variable is seperate from datatypes meaning that they are not a datatype but just information.
+One  variable naming rule we learned in class is a float
