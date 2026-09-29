@@ -24,3 +24,7 @@ float ()-numbers #with decimals
 
 #example-int 
 #example-float(3.9-3) 
+
+input 
+int 
+(89<42)
