@@ -11,6 +11,6 @@
 #functions def syntax (how it is written)
 def goodMoring ():
     print ("good moring")
-    name=input("whats" your name:")
+    name=input ("whats your name":)
     print("welcome"+ name)
 
