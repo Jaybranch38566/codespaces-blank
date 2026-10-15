@@ -35,23 +35,41 @@ def calculate_division():
     print("Program has started:please type in 2 numbers to divide")
     num1=int(input())
     num2=int(input())
-    print(num1/num2)
-    print ("Program has ended.")
-    def calculate_subtract():
-    print("Program has started:please type in 2 numbers to add ")
-    num1=int(input())
-    num2=int(input())
-    print(num1+num2)
-    print ("Program has ended.")
-    def mainCalculator():
-        #take in a user selection as a number
-        selection=input()
-        if selection==1:
-            calculate_add()
-        elif selection==2:
+print(num1/num2)
+print ("Program has ended.")
+def calculate_subtract():
+ print("Program has started:please type in 2 numbers to add ")
+num1=int(input())
+num2=int(input())
+print(num1+num2)
+ print ("Program has ended.")
+def mainCalculator():
+#take in a user selection as a number
+selection=input()
+ if selection==1:
+calculate_add()
+elif selection==2:
             calculate_subtract()
-        elif selection==3:
-            calculate_multiply()
-        elif selection==4:
-            calculate_divide ()
-                         
+ elif selection==3:
+calculate_multiply()
+ elif selection==4:
+ calculate_divide ()
+ def movieTicketPrice():
+print("Welcome to the movie theater.how old are you?")
+if age< 7:
+print ("your ticket is $8.00")
+else:
+print("Sorry invalid input")
+movieTicketPrice()
+elif age > 8 age < 20:
+print("Your ticket is 12.00")
+elif age > 21 and age of < 60:
+print("Your ticket is $20.00")
+elif  age > 61:
+print ("your ticket is free")
+def permissiontrip():
+if gpa < 90:
+("You are allowed to go on the trip.")
+else: gpa > 90
+("You have a free day.")
+elif ("You have a project to work on")
