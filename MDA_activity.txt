@@ -1,0 +1,5 @@
+The mechanics of flappy bird is that you have to tap or touch the bird and aviod touching the pipes to get a good score,and if you do touch the pipes you lose,the goal is to
+score as much points as you can.
+There is no playstyles in flapybird, only the regular game mode which is to avoid the pipes.
+The art style is very pixelated and the game can be diffucult if you get off track with your accuracy with avoiding the pipes.The game can be addictive to some people because
+they may want to keep playing the game every time they lose,and to also approve their accuracy.
