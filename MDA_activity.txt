@@ -3,3 +3,18 @@ score as much points as you can.
 There is no playstyles in flapybird, only the regular game mode which is to avoid the pipes.
 The art style is very pixelated and the game can be diffucult if you get off track with your accuracy with avoiding the pipes.The game can be addictive to some people because
 they may want to keep playing the game every time they lose,and to also approve their accuracy.
+
+1.The game i am making is a scary horror game for people to enjoy. 
+2.The general actions that i want players to do is to greet customers,and handing out items like towels and shampoo
+and turning away customers that is drunk or have tattos.Eventually you find out that one of the customers have been running
+an dark ritual which is affecting your store and the city, and they lock up a women who died in childbirth
+and returns as an vengeful spirit. The objective is to solve enviornmental puzzles, find a hidden basement key,
+free a chained man,and escape the vilage alive.
+3.When the user completes the actions and does not get caught by the spirit they 
+get a good ending and escape the village.
+4.If the player fails the objective and gets caught by the spirit,they die and has to start over from
+where they left off.
+5. 3 games that are similar to the one i intend to build and that i am inspired by is
+1. the bathouse. 2.Night security. 3.The closing shift. all by chillas art.
+
+ 
