@@ -13,8 +13,9 @@ while 2+2==num: #Condition --> operations-must be true
     num=int(input("Please type in a number:"))
 
 def guessingGame():
-    correctAnswer=12
-    attempts=0
+    correctanswer=12
+correctanswer=12
+attempts=0
 attempts=0
 print("GUESSING GAME HAS STARTED")
 userGuess=input("Please guess a number between 1 and 50.")
@@ -23,3 +24,25 @@ while userGuess !=correctAnswer:
    attempts +=1
    print("guess attempts:  " +str(attempts))
    guessingGame()
+
+
+
+
+
+   def passwordReset():
+       correctPassword="1234"
+       print("Please login with your password)...")
+       attempts=4
+       userPwAttempt=input()
+       while userPwAttempt!=correctPassword:
+           print("password incorrect.")
+           print("try again...")
+           print("Please log in with your Password...")
+           userPwAttempt=input()
+           passwordReset()
+           attempts -=1
+           print("You have "+str(attempts)+" attempts left.")
+           userPwAttempt=input()
+           print("Too many attempts,you have been locked out of your account.")
+           print("welcome you have acess...")
+           passwordReset()
