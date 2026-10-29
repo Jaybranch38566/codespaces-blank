@@ -22,4 +22,5 @@ def vendingmachine():
 		print("Invalid selection. Please try again.")
 	print("Dispensing item...")
 	print("Thank you for your purchase!")
-	vendingmachine()
+
+vendingmachine()

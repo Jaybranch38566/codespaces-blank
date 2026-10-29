@@ -44,5 +44,4 @@ def Rockpaperscissors():
         if input("Play again? (y/n): ").strip().lower() not in ("y", "yes"):
             print("Thanks for playing!")
             return
-        def main():
-            Rockpaperscissors()
+        Rockpaperscissors()
